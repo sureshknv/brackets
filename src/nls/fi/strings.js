@@ -56,14 +56,14 @@ define({
     "READ_DIRECTORY_ENTRIES_ERROR"      : "Tapahtui virhe luettaessa hakemiston <span class='dialog-filename'>{0}</span> sisältöä. (Virhe {1}.)",
 
     // File open/save error string
-    "ERROR_OPENING_FILE_TITLE"          : "Virhe tiedostoa avattaessa",
+    "ERROR_OPENING_FILE_TITLE"          : "Virhe tiedostoa f",
     "ERROR_OPENING_FILE"                : "Tapahtui virhe yritettäessä avata tiedostoa <span class='dialog-filename'>{0}</span>. {1}",
     "ERROR_OPENING_FILES"               : "Tapahtui virhe yritettäessä avata seuraavia tiedostoja:",
     "ERROR_RELOADING_FILE_TITLE"        : "Virhe päivitettäessä muutoksia levyltä",
     "ERROR_RELOADING_FILE"              : "Tapahtui virhe yritettäessä päivittää tiedostoa <span class='dialog-filename'>{0}</span>. {1}",
     "ERROR_SAVING_FILE_TITLE"           : "Virhe tallennettaessa tiedostoa",
     "ERROR_SAVING_FILE"                 : "Tapahtui virhe yritettäessä tallentaa tiedostoa <span class='dialog-filename'>{0}</span>. {1}",
-    "ERROR_RENAMING_FILE_TITLE"         : "Virhe nimettäessä {0}a uudelleen",
+    "ERROR_RENAMING_FILE_TITLE"         : "Virhe nimettäessä tiedostoa {0} uudelleen",
     "ERROR_RENAMING_FILE"               : "Tapahtui virhe yritettäessä nimetä uudelleen {2}a <span class='dialog-filename'>{0}</span>. {1}",
     "ERROR_RENAMING_NOT_IN_PROJECT"     : "Tiedosto tai hakemisto ei kuulu avoinna olevaan projektiin. Valitettavasti vain projektin tiedostoja voi nimetä uudelleen tällä hetkellä.",
     "ERROR_DELETING_FILE_TITLE"         : "Virhe poistettaessa {0}a",
